@@ -18,10 +18,10 @@ My name is Kris Stern and I am a Software Engineer/Developer currently based out
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://github.com/kakirastern/kakirastern/issues/2#issue-669353445
+[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
 
 [1]: https://twitter.com/krisastern
 [2]: https://www.linkedin.com/in/krisastern/
