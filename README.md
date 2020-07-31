@@ -23,7 +23,7 @@ My name is Kris Stern and I am a Software Engineer/Developer currently based out
 
 I maintain a blog at [Medium](https://medium.com/@krisastern), where for the moment I am using it chiefly for satisfying GSoC requirements. 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on Twitter [![Twitter][1.2]][1], or on LinkedIn [![LinkedIn][2.2]][2].
 
 [1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
 [2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
