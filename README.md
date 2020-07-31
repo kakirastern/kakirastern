@@ -21,7 +21,7 @@ My name is Kris Stern and I am a Software Engineer/Developer currently based out
 
 ## 🖊 Writing and Blogging
 
-I maintain a blog at [Medium](https://medium.com/@krisastern), where for the moment I am using it chiefly for satisfying GSoC requirements. 
+I maintain a blog at [Medium](https://medium.com/@krisastern), where for the moment I am using it chiefly for satisfying Google Summer of Code (GSoC) requirements. 
 
 ## 🙎🏻 Social Media
 
