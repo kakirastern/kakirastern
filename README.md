@@ -20,7 +20,7 @@ My name is Kris Stern and I am a Software Engineer/Developer currently based out
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-[1.2]:
+[1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]:
 
 [1]: https://twitter.com/krisastern
