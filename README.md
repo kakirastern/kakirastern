@@ -1,6 +1,8 @@
 ## Hello, world!
  
-My name is Kris Stern and I am a Software Engineer/Developer currently based out in Hong Kong SAR, China. I am interested in physics, astrophysics, geophysics, and computer science as academic subjects, and would like to apply artificial intelligence / machine learning / algorithm to such studies, whether it is related to work or for my private interests. I am also fascinated by data visualisation, especially in the exploratory analysis performed on data cubes of many dimensions. 
+My name is Kris Stern and I am a Software Engineer/Developer currently based out in Hong Kong SAR, China. I am interested in physics, astrophysics, geophysics, and computer science as academic subjects, and would like to apply artificial intelligence / machine learning / algorithm to such studies, whether it is related to work or for my private interests. I am also fascinated by data visualisation, especially in the exploratory analysis performed on data cubes of many dimensions.
+
+In my spare time, I contribute to the landscape of open-source software, mostly via Astropy (on their Learn Astropy team) and SunPy (working on mostly glue-solar stuff at the moment). 
 
 ## Technology and Tools
 
