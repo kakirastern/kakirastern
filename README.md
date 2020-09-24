@@ -25,7 +25,7 @@ In my spare time, I contribute to the landscape of open-source software, mostly 
 
 ## Writing and Blogging
 
-I maintain a blog at [Medium](https://medium.com/@krisastern), where for the moment I have been using it chiefly for satisfying Google Summer of Code (GSoC) 2020 requirements. 
+I maintain a blog at [Medium](https://medium.com/@krisastern), where for the moment I have been using it chiefly for satisfying Google Summer of Code (GSoC) 2019 & 2020 requirements. 
 
 ## Social Media
 
