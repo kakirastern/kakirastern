@@ -23,6 +23,8 @@ In my spare time, I contribute to the landscape of open-source software, predomi
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 
+![](https://www.codewars.com/users/kakirastern/badges/small)
+
 ## Writing and Blogging
 
 I maintain a blog at [Medium](https://medium.com/@krisastern), where for the moment I have been using it chiefly for satisfying Google Summer of Code (GSoC) 2019 & 2020 requirements. 
