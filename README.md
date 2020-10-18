@@ -27,7 +27,7 @@ In my spare time, I contribute to the ecosystems of open-source software, predom
 
 ## Writing and Blogging
 
-I maintain a blog at [Medium](https://medium.com/@krisastern), which I have been using chiefly for satisfying Google Summer of Code (GSoC) 2019 & 2020 requirements, as well as for etc. 
+I maintain a blog at [Medium](https://medium.com/@krisastern), which I have been using chiefly for satisfying Google Summer of Code (GSoC) 2019 & 2020 requirements, as well as for et cetera. 
 
 ## Social Media
 
