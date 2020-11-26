@@ -4,6 +4,8 @@ My name is Kris Stern and I am a Researcher and Software Engineer and Data Scien
 
 In my spare time, I contribute to the ecosystems of open-source software, predominately via Astropy (on their Learn Astropy team) and SunPy (working on mostly the glue-solar project at the moment). SunPy and AstroPy members. 
 
+In my spare time I enjoy kendo, field hockey, cricket, baseball/softball, gaming development, history, public radio (CBC, BBC, NPR), as well as current affairs. 
+
 ## Technology and Tools
 
 ![](https://img.shields.io/badge/OS-macOS/Linux/Windows-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
