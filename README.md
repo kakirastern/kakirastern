@@ -1,6 +1,6 @@
 ## Hello, world!
  
-My name is Akira Hirohito and I am a Researcher and Software Engineer and Data Scientist currently based out in Montreal, QC. I am interested in physics, astrophysics, geophysics, and computer science as academic subjects, and would like to apply artificial intelligence / machine learning / algorithm to such studies, whether it is related to work or for my private interests. I am also fascinated by data visualisation, especially in the exploratory analysis performed on data cubes of many dimensions.
+My name is Dr. Akira Hirohito and I am a Researcher and Software Engineer and Data Scientist currently based out in Montreal, QC. I am interested in physics, astrophysics, geophysics, and computer science as academic subjects, and would like to apply artificial intelligence / machine learning / algorithm to such studies, whether it is related to work or for my private interests. I am also fascinated by data visualisation, especially in the exploratory analysis performed on data cubes of many dimensions.
 
 In my spare time, I contribute to the ecosystems of open-source software, predominately via SunPy (working on mostly the sunpy core and glue-solar project at the moment). SunPy member. 
 
