@@ -40,7 +40,3 @@ I maintain a blog at [Medium](https://medium.com/@krisastern), which I have been
 
 [1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
 [2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
-
-[1]: https://twitter.com/krisastern
-[2]: https://www.linkedin.com/in/krisastern/
-
