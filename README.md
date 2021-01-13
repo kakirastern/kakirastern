@@ -4,7 +4,7 @@ My name is Dr. Kris Akira Stern and I am a Researcher and Software Engineer and 
 
 In my spare time, I contribute to the ecosystems of open-source software. Canadian CHORD project contact.  
 
-In my spare time I enjoy kendo, field hockey, cricket, baseball/softball, gaming development, history, public radio (CBC, BBC, NPR), as well as current affairs. 
+In my spare time I enjoy kendo, field hockey, cricket analytics, baseball/softball, gaming development, history, public radio (CBC, BBC, NPR), as well as current affairs. 
 
 ## Technology and Tools
 
