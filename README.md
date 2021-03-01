@@ -2,7 +2,7 @@
  
 My name is Dr. Kris Akira Stern, PhD and I am a Software Engineer and Data Scientist currently based out in Hong Kong. I am interested in physics, astrophysics, geophysics, and computer science as academic subjects, and would like to apply artificial intelligence / machine learning / algorithm to such studies, whether it is related to work or for my private interests. I am also fascinated by data visualisation, especially in the exploratory analysis performed on data cubes of many dimensions.
 
-In my spare time, I like to develop software.  
+In my spare time, I like to develop software and to understand the interplay between AI and human interaction. 
 
 In my spare time I enjoy kendo, field hockey, cricket analytics, baseball/softball, games development, history, public radio (CBC, BBC, NPR), as well as current affairs. 
 
